@@ -60,9 +60,9 @@ To run the Auto-FastCut script, you need:
 
 5. **Install Pymiere Extension:**
    
-   Follow this guide: [Pymiere Installation Tutorial](https://github.com/qmasingarbe/pymiere?tab=readme-ov-file#installation)
+   - follow this guide: [Pymiere Installation Tutorial](https://github.com/qmasingarbe/pymiere?tab=readme-ov-file#installation)
 
-5. **Ensure the Following Files Are in Place:**
+6. **Ensure the Following Files Are in Place:**
 
    - `model.keras`: The pre-trained model file. You can train the model using the provided training script or download a pre-trained model if available.
 
@@ -99,11 +99,7 @@ Feel free to contribute to the project by submitting issues, bug reports, or pul
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or support, please contact [your email address].
+This project is licensed under the MIT License.
 
 ---
 
