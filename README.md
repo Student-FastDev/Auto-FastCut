@@ -58,6 +58,10 @@ To run the Auto-FastCut script, you need:
        └── (negative audio files)
    ```
 
+5. **Install Pymiere Extension:**
+   
+   Follow this guide: [Pymiere Installation Tutorial](https://github.com/qmasingarbe/pymiere?tab=readme-ov-file#installation)
+
 5. **Ensure the Following Files Are in Place:**
 
    - `model.keras`: The pre-trained model file. You can train the model using the provided training script or download a pre-trained model if available.
