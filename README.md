@@ -69,20 +69,19 @@ To run the Auto-FastCut script, you need:
    If you need to train the model from scratch, use the provided training script. Ensure your dataset is correctly set up and run:
 
    ```sh
-   python train_model.py
+   python train.py
    ```
 
    This will save a model file named `model.keras`.
 
 2. **Run the Inference Script:**
 
-   To perform automated fast cuts on an audio file, use the inference script:
+   To perform automated fast cuts on an audio file, use the premiere script:
 
    ```sh
-   python inference_script.py
+   python premiere.py
    ```
 
-   Ensure that the audio file to be processed is named `audio.mp3` and placed in the same directory as the script.
 
 ## Notes
 
