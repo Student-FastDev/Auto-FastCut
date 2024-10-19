@@ -97,10 +97,4 @@ To run the Auto-FastCut script, you need:
 
 Feel free to contribute to the project by submitting issues, bug reports, or pull requests. For significant changes, please open an issue first to discuss what you would like to change.
 
-## License
-
-This project is licensed under the MIT License.
-
----
-
 **Auto-FastCut** is a project developed to streamline video editing processes using AI. Happy cutting!
