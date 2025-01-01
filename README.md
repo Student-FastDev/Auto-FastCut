@@ -1,4 +1,4 @@
-![Premiere Icon](https://i.imgur.com/y63PB4m.png)
+![Premiere Icon](https://i.imgur.com/tChioro.png)
 
 # Auto-FastCut
 
