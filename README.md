@@ -1,5 +1,3 @@
-![Premiere Icon](https://i.imgur.com/JhikUWs.png)
-
 # Auto-FastCut
 
 **Auto-FastCut** is an AI-based Python script designed to automate fast cuts in Adobe Premiere Pro. This project uses a pre-trained deep learning model to identify and cut specific audio segments from a given audio track. The script integrates with TensorFlow and TensorFlow I/O to process audio files and predict cut points.
