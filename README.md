@@ -98,3 +98,9 @@ To run the Auto-FastCut script, you need:
 Feel free to contribute to the project by submitting issues, bug reports, or pull requests. For significant changes, please open an issue first to discuss what you would like to change.
 
 **Auto-FastCut** is a project developed to streamline video editing processes using AI. Happy cutting!
+
+<div align="center">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/512px-Adobe_Premiere_Pro_CC_icon.svg.png?20210729021549" alt="Premiere Logo" width="50px">
+<img src="https://user-images.githubusercontent.com/40668801/42043955-fbb838a2-7af7-11e8-9795-7f890e871d13.png" alt="Tensorflow Logo" width="50px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Adobe_Creative_Cloud_rainbow_icon.svg/1050px-Adobe_Creative_Cloud_rainbow_icon.svg.png" alt="Adobe Logo" width="50px">  
+</div>  
