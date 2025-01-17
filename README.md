@@ -93,12 +93,6 @@ To run the Auto-FastCut script, you need:
 - **Model Predictions:** The script uses the pre-trained model to predict cut points in the audio file. Predictions are printed with their corresponding timestamps.
 - **Dependencies:** Make sure to install all required dependencies and have the Conda environment properly set up to avoid issues.
 
-## Contributing
-
-Feel free to contribute to the project by submitting issues, bug reports, or pull requests. For significant changes, please open an issue first to discuss what you would like to change.
-
-**Auto-FastCut** is a project developed to streamline video editing processes using AI. Happy cutting!
-
 ---
 
 <div align="center">  
