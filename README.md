@@ -4,7 +4,7 @@ AI to automate fast cuts in Adobe Premiere Pro.
 
 ## Prerequisites
 
-To run the Auto-FastCut script, ensure you have the following installed:
+To run the script, ensure you have the following installed:
 
 - **Python:** Version 3.6 or higher.
 - **Git:** For cloning the repository.
