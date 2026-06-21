@@ -1,6 +1,6 @@
 # Auto-FastCut
 
-AI to automate fast cuts in Adobe Premiere Pro.
+Automating fast cuts in Adobe Premiere Pro.
 
 ## Prerequisites
 
